@@ -29,6 +29,7 @@ To set up the environment for this project, follow these steps:
 ![image](https://github.com/undertanker86/QA-with-PDF-files-using-RAG-LLM/assets/124110097/f1a143d6-bed3-4680-abaf-e1f895dfd02c)
 
 2. The result:
+   
 ![image](https://github.com/undertanker86/QA-with-PDF-files-using-RAG-LLM/assets/124110097/b729c9bc-9abf-48cb-af0a-0bf0cdfa01f8)
 
 3. The information in PDF files:
