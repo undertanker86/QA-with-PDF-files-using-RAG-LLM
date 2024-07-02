@@ -21,4 +21,17 @@ To set up the environment for this project, follow these steps:
     ```sh 
     conda env create -f environment.yml
     conda activate config environment
+## Run code:
+    ```sh
+    chainlit run rag-llm.py
+## Result:
+1. Upload file pdf and question:
+    ![image](https://github.com/undertanker86/QA-with-PDF-files-using-RAG-LLM/assets/124110097/f1a143d6-bed3-4680-abaf-e1f895dfd02c)
+2. The result:
+    ![image](https://github.com/undertanker86/QA-with-PDF-files-using-RAG-LLM/assets/124110097/b729c9bc-9abf-48cb-af0a-0bf0cdfa01f8)
+3. The information in PDF files:
+    ![image](https://github.com/undertanker86/QA-with-PDF-files-using-RAG-LLM/assets/124110097/286f9b73-fa82-4ecd-83ee-093efe54f171)
+
+    
+
 
